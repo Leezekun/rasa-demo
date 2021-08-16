@@ -81,3 +81,4 @@ switch,I want to migrate.,
 switch,I want to migrate from {current_api}.,current_api
 technical_question,A technical question.,
 thank,Thanks!,
+no, no,
